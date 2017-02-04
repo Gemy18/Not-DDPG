@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Volumes/HDD/ML/Not-DDPG/experiments/Breakout-v0/checkpoints/model"
+all_model_checkpoint_paths: "/Volumes/HDD/ML/Not-DDPG/experiments/Breakout-v0/checkpoints/model"
